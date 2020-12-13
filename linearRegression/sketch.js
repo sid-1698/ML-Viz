@@ -1,5 +1,5 @@
 var training;
-var learning_rate=0.001;
+var learning_rate=0.01;
 var n_iters=100;
 var weights = 0;
 var bias = 0;
